@@ -1,0 +1,7 @@
+-- My Sql 접속
+-- Database - Connect to Database 
+-- Default Schema에 'world' 입력 후 Ok 버튼
+-- world Schema에 볼드체로 연결이 되었는지 확인
+-- 쿼리 추가
+-- select * from city 를 실행 후 테이블이 Action Output에 오류가 안나는지 확인
+-- Table에 Column들이 제대로 나왔는지 확인 (ID, Name, CountryCode, District, Population)
